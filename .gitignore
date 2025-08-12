@@ -19,3 +19,4 @@ clasament.txt
 # Temporare / log
 *.log
 *~
+*.dSYM/
