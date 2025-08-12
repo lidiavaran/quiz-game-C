@@ -1,0 +1,21 @@
+# Build / obiecte / exec
+*.o
+*.obj
+*.elf
+*.out
+*.exe
+quiz
+a.out
+
+# Fișiere generate la rulare
+save*.txt
+clasament.txt
+
+# Editor / OS
+.vscode/
+.DS_Store
+*.swp
+
+# Temporare / log
+*.log
+*~

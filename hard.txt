@@ -1,0 +1,96 @@
+Care este rezultatul expresiei sizeof('A') în C?
+1
+2
+4
+8
+b
+Ce se întâmplă dacă încerci să accesezi o locație de memorie nealocată sau invalidă?
+Apare o eroare de compilare
+Apare o eroare de execuție (segmentation fault)
+Programul se va închide automat
+Memoria este alocată automat
+b
+Care dintre următoarele nu este un mod valid de a declara un tablou de dimensiune 10 în C?
+int arr[10];
+int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+int arr = (int) malloc(10 * sizeof(int));
+int arr[10] = {1, 2, 3, 4};
+d
+Ce se întâmplă când se face o comparație între două pointere de tipuri diferite?
+Se va produce o eroare de compilare
+Comparația va returna valoarea 0
+Se face conversia tipului unui pointer la celălalt
+Rezultatul este nedefinit
+a
+Care este valoarea variabilei x după execuția următorului cod?
+10
+11
+12
+13
+b
+Ce face funcția memcpy() în C?
+Copiază o zonă de memorie sursă într-o zonă de memorie destinație
+Compară două blocuri de memorie
+Căută un caracter într-un șir de caractere
+Alocă dinamic memorie pentru un tablou
+a
+Care dintre următoarele declarații este corectă pentru a obține un pointer către o funcție?
+int* (ptr)(int);
+int (ptr)(int);
+int ptr(int);
+int ptr(int, int);
+b
+Ce face operatorul * într-un context de pointer în C?
+Accesează valoarea stocată la adresa indicată de pointer
+Declara un pointer
+Creează un tablou de pointeri
+Face o comparație între două pointere
+a
+Cum se poate preveni un buffer overflow în C?
+Folosind funcții precum strncpy() în loc de strcpy()
+Folosind funcția malloc() pentru a aloca memorie dinamică
+Folosind pointeri la funcții
+Toate variantele de mai sus
+a
+Care este valoarea variabilei x după următorul cod?
+20
+21
+22
+23
+a
+Ce se întâmplă dacă încerci să accesezi un element dintr-un tablou folosind un index negativ în C?
+Apare o eroare de compilare
+Se va returna o valoare aleatorie
+Programul va crăpa (segmentation fault)
+Valoarea va fi zero
+c
+Ce tip de memorie este utilizat de funcțiile malloc() și free() în C?
+Memorie stivă (stack)
+Memorie dinamică (heap)
+Memorie globală
+Memorie statică
+b
+Ce se întâmplă dacă se folosește un pointer neinițializat în C?
+Programul va aloca automat memorie pentru pointer
+Programul va returna o valoare 0 pentru pointer
+Accesul la un pointer neinițializat poate duce la un comportament nedefinit
+Programul va da o eroare de compilare
+c
+Care dintre următoarele funcții nu face parte din biblioteca standard C?
+malloc()
+calloc()
+realloc()
+allocate()
+d
+Ce tip de variabilă poate fi utilizată pentru a crea un pointer la o funcție?
+void*
+char*
+int*
+function*
+b
+Care este rezultatul expresiei *ptr++ într-un context de pointer?
+Incrementarea adresei la care se află pointerul și accesarea valorii la adresa inițială
+Incrementarea valorii la care se află pointerul și accesarea adresei inițiale
+Accesarea valorii și incrementarea adresei
+Accesarea adresei și incrementarea valorii
+a

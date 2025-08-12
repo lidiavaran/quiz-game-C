@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/admin/Desktop/Facultate/aplicatieC/output/main'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _clearScreen, symObjAddr: 0x0, symBinAddr: 0x10000258C, symSize: 0x1C }
+  - { offset: 0x60, size: 0x8, addend: 0x0, symName: _clearScreen, symObjAddr: 0x0, symBinAddr: 0x10000258C, symSize: 0x1C }
+  - { offset: 0x75, size: 0x8, addend: 0x0, symName: _showWelcome, symObjAddr: 0x1C, symBinAddr: 0x1000025A8, symSize: 0x20 }
+  - { offset: 0x8A, size: 0x8, addend: 0x0, symName: _showMenu, symObjAddr: 0x3C, symBinAddr: 0x1000025C8, symSize: 0x68 }
+  - { offset: 0x9F, size: 0x8, addend: 0x0, symName: _getValidOption, symObjAddr: 0xA4, symBinAddr: 0x100002630, symSize: 0x120 }
+  - { offset: 0xD5, size: 0x8, addend: 0x0, symName: _showInstructions, symObjAddr: 0x1C4, symBinAddr: 0x100002750, symSize: 0x78 }
+  - { offset: 0xEA, size: 0x8, addend: 0x0, symName: _loadQuestions, symObjAddr: 0x23C, symBinAddr: 0x1000027C8, symSize: 0x2A8 }
+  - { offset: 0x19E, size: 0x8, addend: 0x0, symName: _shuffleQuestions, symObjAddr: 0x4E4, symBinAddr: 0x100002A70, symSize: 0x134 }
+  - { offset: 0x216, size: 0x8, addend: 0x0, symName: _isValidAnswer, symObjAddr: 0x618, symBinAddr: 0x100002BA4, symSize: 0x48 }
+  - { offset: 0x23E, size: 0x8, addend: 0x0, symName: _askQuestions, symObjAddr: 0x660, symBinAddr: 0x100002BEC, symSize: 0x4DC }
+  - { offset: 0x333, size: 0x8, addend: 0x0, symName: _loadGame, symObjAddr: 0xB3C, symBinAddr: 0x1000030C8, symSize: 0xB0 }
+  - { offset: 0x385, size: 0x8, addend: 0x0, symName: _saveScore, symObjAddr: 0xBEC, symBinAddr: 0x100003178, symSize: 0x84 }
+  - { offset: 0x3C5, size: 0x8, addend: 0x0, symName: _showClasament, symObjAddr: 0xC70, symBinAddr: 0x1000031FC, symSize: 0x154 }
+  - { offset: 0x413, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xDC4, symBinAddr: 0x100003350, symSize: 0x444 }
+...

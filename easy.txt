@@ -1,0 +1,102 @@
+În ce an a fost creat limbajul C?
+1970
+1982
+1972
+1991
+c
+Care este tipul de date folosit pentru a reprezenta un întreg?
+int
+char
+double
+full
+a
+Ce face funcția printf() în C?
+Afișează un mesaj pe ecran
+Citește un mesaj de la utilizator
+Returnează un rezultat
+Împărțirea a 2 numere
+a
+Care este tipul de date care poate stoca un caracter?
+string
+char
+float
+double
+b
+Ce înseamnă #include <stdio.h> în C?
+Definește o funcție
+Include biblioteca IO
+Definește o variabilă
+Declară un șir de char
+b
+Din ce limbaj a fost derivat în principal C?
+Fortran
+Algol
+B
+Pascal
+c
+Care a fost scopul inițial al dezvoltării limbajului C?
+Dezvoltarea de aplicații web
+Programare de sisteme (de exemplu, dezvoltarea sistemelor de operare)
+Aplicații de business
+Inteligență artificială
+b
+Cum se afișează un mesaj pe ecran în C?
+print("Hello World");
+echo("Hello World");
+printf("Hello World");
+cout << "Hello World";
+c
+Ce face funcția scanf() în C?
+Afișează text pe ecran
+Citește date de la utilizator
+Alocă memorie pentru variabile
+Termină execuția unui program
+b
+Ce operator se folosește pentru a atribui o valoare unei variabile în C?
+->
+==
++
+=
+d
+Care este rezultatul expresiei 5 / 2 în C?
+3
+2.5
+5
+2
+a
+Care este valoarea inițială a unei variabile de tip int în C dacă nu este inițializată?
+0
+1
+nimic
+infinit
+c
+Cum se scrie un loop for în C?
+for i in range(10)
+for (int i = 0; i < 10; i++)
+for (i = 0; i < 10)
+for (i:0; i < 10)
+b
+Cum se face un apel la o funcție în C?
+call functie();
+run functie();
+execute functie();
+functie();
+d
+Cum se scrie un comentariu pe o singură linie în C?
+// Comentariu
+/* Comentariu */
+# Comentariu
+-- Comentariu
+a
+Cum se definește o funcție în C?
+function myFunction()
+void myFunction() {}
+def myFunction()
+func myFunction() {}
+b
+Ce face operatorul ++ în C?
+Adună 1 la valoarea unei variabile
+Scade 1 din valoarea unei variabile
+Împărțește valoarea unei variabile la 2
+Înmulțește valoarea unei variabile cu 2
+a

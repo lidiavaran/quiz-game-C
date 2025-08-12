@@ -1,0 +1,102 @@
+Care este scopul funcției malloc() în C?
+Eliberează memoria alocată dinamic
+Alocă memorie dinamică
+Verifică tipul unei variabile
+Crează un tablou de caractere
+b
+Ce returnează funcția strlen()? 
+Lungimea unui șir de caractere
+Dimensiunea în bytes a unui șir de caractere
+Adresa de memorie a unui șir de caractere
+Caracterul de final al unui șir
+a
+Care este valoarea expresiei 7 / 2 în C, dacă ambele variabile sunt de tip int?
+3.5
+4
+3
+2
+c
+Ce face operatorul && în C?
+Realizează o comparație între două variabile
+Efectuează o operație logică AND
+Efectuează o comparație între șiruri
+Inversează valoarea unei expresii booleene
+b
+Care este diferența între ++i și i++?
+++i incrementează valoarea după utilizare, iar i++ înainte de utilizare
+++i incrementează valoarea înainte de utilizare, iar i++ după
+Nu există diferență
+++i crește valoarea cu 2, iar i++ cu 1
+b
+Ce face funcția free() în C?
+Alocă memorie dinamică
+Eliberează memoria alocată dinamic
+Verifică tipul unui pointer
+Creează un fișier
+b
+Ce tip de date este returnat de funcția sizeof()?
+int
+char
+size_t
+float
+c
+Care dintre următoarele este corect pentru a declara un pointer la un întreg în C?
+int pointer*;
+int* pointer;
+pointer int*;
+pointer* int;
+b
+Care este sintaxa corectă pentru a crea o funcție care returnează un întreg?
+int func();
+func int();
+int func{};
+int func[];
+a
+Cum se poate compara două șiruri de caractere în C?
+str1 == str2
+strcmp(str1, str2)
+equal(str1, str2)
+compare(str1, str2)
+b
+Ce face funcția fopen() în C?
+Deschide un fișier pentru citire/scriere
+Citește dintr-un fișier
+Scrie într-un fișier
+Închide un fișier
+a
+Care este sintaxa corectă pentru un tablou unidimensional în C?
+int arr[10];
+int[10] arr;
+arr[10] int;
+arr int[10];
+a
+Cum se definește un tablou dinamic în C?
+int arr[];
+int* arr;
+arr[10] = int;
+int arr(10);
+b
+Ce returnează funcția exit() în C?
+Terminează programul cu un cod de succes
+Închide programul fără a returna niciun rezultat
+Salvează fișierele deschise
+Afișează un mesaj pe ecran
+a
+Care dintre următoarele nu este un tip de date primitiv în C?
+int
+char
+boolean
+float
+c
+Ce face operatorul % în C?
+Realizează o împărțire între două numere
+Afișează restul împărțirii a două numere
+Adună două numere
+Realizează o comparație între două numere
+b
+Ce se întâmplă dacă o funcție C nu returnează o valoare, dar are un tip de returnare non-void?
+Programul va returna o eroare de compilare
+Funcția va returna automat valoarea 0
+Funcția va returna o valoare aleatorie
+Funcția va returna o eroare de execuție
+a
