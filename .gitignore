@@ -20,3 +20,5 @@ clasament.txt
 *.log
 *~
 *.dSYM/
+*.dSYM/
+output/
